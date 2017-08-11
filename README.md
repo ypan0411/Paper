@@ -1,2 +1,2 @@
 # Paper
-Paper's in all interesting fields.
+Papers in all interesting fields.
